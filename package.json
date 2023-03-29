@@ -1,7 +1,7 @@
 {
   "name": "@zk-vault/periphery",
   "description": "Periphery contracts for the ZKVault protocol",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/ZKVAULT328/zkvault-periphery"
